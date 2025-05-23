@@ -1,0 +1,22 @@
+==============================
+ALINEAMIENTO GLOBAL (Hirschberg)
+==============================
+Secuencia A: TACGCGC
+Secuencia B: TCCGA
+------------------------------
+Alineamiento 1: TACGCGC
+Alineamiento 2: T-C-CGA
+
+Puntaje total: -1
+
+Matriz de puntajes:
+0	-2	-4	-6	-8	-10	
+-2	1	-1	-3	-5	-7	
+-4	-1	0	-2	-4	-4	
+-6	-3	0	1	-1	-3	
+-8	-5	-2	-1	2	0	
+-10	-7	-4	-1	0	1	
+-12	-9	-6	-3	0	-1	
+-14	-11	-8	-5	-2	-1	
+
+Numero total de alineamientos generados: 1
